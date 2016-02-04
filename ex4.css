@@ -1,0 +1,90 @@
+*{margin:0; padding:0;}
+
+html {
+    background: #9ad7d5;
+}
+body {
+    font-family: 'Abel', sans-serif;
+}
+
+header h1{
+    margin-top: 50px;
+    text-align: center;   
+}
+
+#ballInfo, #usbInfo, #penInfo, #phoneInfo, #knifeInfo{
+
+    background-color: #f27161;
+    color: white;
+    position: absolute;
+    top: 200px;
+    width: 350px;
+    left: 30px;
+    padding: 20px;
+    
+    
+}
+
+section#phone p{
+    margin-left:27px;
+}
+
+section#knife p{
+    margin-left:10px;
+}
+
+section#pen p{
+    margin-left:10px;
+}
+
+section#ball p{
+    margin-left:35px;
+}
+
+section#usb p{
+    margin-left:35px;
+}
+section h5{
+    text-align: center;
+    font-size: 20px;
+    
+}
+
+section#pen {
+   position: absolute;
+    top: 400px;
+    left: 50px;
+    
+}
+
+img {
+    opacity: .8;
+}
+
+section#phone {
+    position: absolute;
+    top: 400px;
+    left: 180px;
+    
+}
+
+section#knife {
+    position: absolute;
+    top: 400px;
+    left: 350px;
+    
+}
+
+section#usb {
+    position: absolute;
+    top: 400px;
+    left: 530px;
+    
+}
+
+section#ball {
+    position: absolute;
+    top: 400px;
+    left: 740px;
+    
+}
