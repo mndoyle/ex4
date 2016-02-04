@@ -88,3 +88,25 @@ section#ball {
     left: 740px;
     
 }
+
+body a:link {
+	text-decoration:none;
+	color:white;
+	}
+
+body a:visited {
+	color: white;
+}
+
+body a:hover {
+	color:lightgoldenrodyellow;
+	text-decoration:underline;
+}
+
+footer {
+    position: absolute;
+    top: 650px;
+    width: 100%;
+    text-align: center;
+    color:white;
+}
